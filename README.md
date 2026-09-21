@@ -1,5 +1,20 @@
 # elite-youth-sports
 
+<!-- NEXUS_PROJECT_META_START -->
+
+## Project Management
+
+| Field | Value |
+| --- | --- |
+| Status | 🟡 Planning |
+| Project Lead | TBD |
+| Team / Support | Elite Youth Sports TF |
+| Next Milestone | 핵심 사용자·문제 정의 및 MVP 범위 확정 |
+| Registry | [NEXUS Project Registry](https://github.com/paichai-nexus/nexus-project-registry) |
+
+<!-- NEXUS_PROJECT_META_END -->
+
+
 PAICHAI NEXUS Student Project
 
 ## Overview
